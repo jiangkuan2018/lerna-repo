@@ -1,8 +1,8 @@
-import Core from "../core/a"
+import Core from "../../core/a"
 
 export default class Wechat extends Core {
   constructor() {
     super()
-    console.log(this.name)
+    console.log(this.name, 'wechat')
   }
 }

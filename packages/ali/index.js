@@ -1,4 +1,4 @@
-import Core from "../core/a"
+import Core from "../../core/a"
 
 export default class Ali extends Core {
   constructor() {
